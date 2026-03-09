@@ -1,8 +1,8 @@
-# CoreLex: Advanced Document Analysis and Retrieval System
+# RAG-based Document Query System
 
 ## 1. Project Overview
 
-CoreLex is a comprehensive, multi-service application designed to ingest, process, and analyze large volumes of documents. It uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers based on the content of a provided document library.
+This is a comprehensive, multi-service application designed to ingest, process, and analyze large volumes of documents. It uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers based on the content of a provided document library.
 
 The system is fully containerized using Docker and Docker Compose, allowing for a consistent, one-command startup process across different development environments. It leverages a local, open-source Large Language Model (LLM) to ensure data privacy and eliminate the need for external API keys or manual configuration.
 
