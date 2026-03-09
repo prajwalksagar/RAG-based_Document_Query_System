@@ -1,10 +1,10 @@
-# CoreLex: Technical Documentation
+# Technical Documentation
 
-This document provides a detailed technical overview of the CoreLex system architecture, data flows, and core components.
+This document provides a detailed technical overview of the system architecture, data flows, and core components.
 
 ## 1. High-Level System Architecture
 
-CoreLex is built on a microservices architecture, fully containerized with Docker Compose. This design ensures separation of concerns, scalability, and maintainability. Each service communicates over a shared Docker network.
+This is built on a microservices architecture, fully containerized with Docker Compose. This design ensures separation of concerns, scalability, and maintainability. Each service communicates over a shared Docker network.
 
 ```mermaid
 graph TD
